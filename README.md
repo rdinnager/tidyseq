@@ -9,6 +9,10 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/tidyseq)](https://CRAN.R-project.org/package=tidyseq)
+[![Codecov test
+coverage](https://codecov.io/gh/rdinnager/tidyseq/branch/master/graph/badge.svg)](https://codecov.io/gh/rdinnager/tidyseq?branch=master)
+[![R build
+status](https://github.com/rdinnager/tidyseq/workflows/R-CMD-check/badge.svg)](https://github.com/rdinnager/tidyseq/actions)
 <!-- badges: end -->
 
 The goal of `tidyseq` is to provide a tidy API to manipulate common
@@ -45,3 +49,10 @@ Nothing to show just yet
 library(tidyseq)
 ## basic example code
 ```
+
+## Code of Conduct
+
+Please note that the tidyseq project is released with a [Contributor
+Code of
+Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
